@@ -15,7 +15,7 @@
 * **OWASP A05: Security Misconfiguration:** Insecure default settings or incomplete configurations, like leaving default admin passwords.
 * **OWASP A06: Vulnerable and Outdated Components:** Using libraries or frameworks that have known security holes.
 * **OWASP A03: Injection:** Sending untrusted data to an interpreter (like SQL) which tricks it into executing commands.
-* **XKCD 327:** "Little Bobby Tables" - a mom names her son `Robert'); DROP TABLE Students;--`. This exploits a database that doesn't sanitize inputs, deleting the student table.
+* **XKCD 327:** "Little Bobby Tables" - a mom names her son Robert; DROP TABLE Students;--. This exploits a database that doesn't sanitize inputs, deleting the student table.
 
 
 ## Goat (Install WebGoat)
